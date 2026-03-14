@@ -12,6 +12,8 @@ Cybersecurity enthusiast focused on SOC operations, threat detection, and securi
 ## Projects
 • AEGIS – AI Driven SOC Automation  
   Security monitoring and automated incident notification using Wazuh SIEM, automation workflows, and threat intelligence.
+  Github Project:
+  https://github.com/MedaAbhinav/AEGIS-SOC-Automation
 
 ## Currently Learning
 • Advanced SOC operations  
