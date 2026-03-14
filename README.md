@@ -1,16 +1,22 @@
-## Hi there 👋
+# Abhinav Meda
 
-<!--
-**MedaAbhinav/MedaAbhinav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity enthusiast focused on SOC operations, threat detection, and security automation.
 
-Here are some ideas to get you started:
+## Skills
+• SIEM Monitoring (Wazuh)  
+• Threat Detection & Analysis  
+• Security Automation (n8n)  
+• Incident Response  
+• Threat Intelligence (VirusTotal)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+• AEGIS – AI Driven SOC Automation  
+  Security monitoring and automated incident notification using Wazuh SIEM, automation workflows, and threat intelligence.
+
+## Currently Learning
+• Advanced SOC operations  
+• Threat hunting  
+• Security automation and orchestration
+
+## LinkedIn
+https://www.linkedin.com/in/abhinav-meda-9715042b7/
