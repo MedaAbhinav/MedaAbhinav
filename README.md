@@ -1,78 +1,44 @@
+```md
 # Abhinav Meda
 
-## Java Developer | Java Full Stack Developer | Spring Boot | React.js | REST APIs | MySQL
+## Java Developer | Java Full Stack Developer
 
-Motivated Java Developer and Java Full Stack Developer with hands-on experience in designing and developing scalable web applications using Java, Spring Boot, React.js, MySQL, and REST APIs. Strong foundation in object-oriented programming, backend development, database management, and modern frontend technologies. Passionate about building clean, efficient, and maintainable software while continuously learning emerging technologies and industry best practices.
+Building scalable, maintainable, and high-performance web applications using Java, Spring Boot, React.js, REST APIs, and MySQL. Passionate about software engineering, clean architecture, object-oriented programming, and developing solutions that deliver real-world impact.
 
 ---
 
 ## Technical Skills
 
-### Programming Languages
-- Java
-- SQL
-- JavaScript
-
-### Backend Technologies
-- Core Java
-- Advanced Java
-- Spring Boot
-- Spring MVC
-- JDBC
-- Servlets
-- JSP
-- REST APIs
-
-### Frontend Technologies
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- React.js
-
-### Database
-- MySQL
-- Oracle SQL
-
-### Tools
-- Git
-- GitHub
-- IntelliJ IDEA
-- Eclipse
-- VS Code
-- Maven
-- Postman
-
-### Core Concepts
-- Object-Oriented Programming (OOP)
-- Collections Framework
-- Exception Handling
-- Multithreading
-- JDBC
-- MVC Architecture
-- Data Structures
+| Category | Technologies |
+|----------|--------------|
+| **Programming** | Java, SQL, JavaScript |
+| **Backend** | Core Java, Advanced Java, Spring Boot, Spring MVC, JDBC, Servlets, JSP, REST APIs |
+| **Frontend** | HTML5, CSS3, Bootstrap, JavaScript, React.js |
+| **Database** | MySQL, Oracle SQL |
+| **Tools** | Git, GitHub, IntelliJ IDEA, Eclipse, VS Code, Maven, Postman |
+| **Core Concepts** | Object-Oriented Programming (OOP), Collections Framework, Exception Handling, Multithreading, JDBC, MVC Architecture, Data Structures |
 
 ---
 
-## Projects
+## Featured Projects
 
 ### Food Delivery Application
 
-**Technologies:** Java, Spring Boot, React.js, MySQL
+**Technology Stack:** Java • Spring Boot • React.js • MySQL
 
-- Developed a full-stack food delivery application.
-- Built RESTful APIs for user authentication, restaurant management, menu, cart, and order processing.
-- Designed and implemented a normalized MySQL database.
-- Integrated frontend and backend using Spring Boot REST APIs.
-- Used Git and GitHub for version control.
+- Developed a full-stack food delivery application using Java, Spring Boot, React.js, and MySQL.
+- Designed and implemented RESTful APIs for authentication, restaurant management, menu, cart, and order processing.
+- Designed a normalized relational database using MySQL.
+- Integrated frontend and backend following the MVC architecture.
+- Managed source code using Git and GitHub.
 
 ### Tic-Tac-Toe Game
 
-**Technologies:** Java, HTML, CSS, JavaScript
+**Technology Stack:** Java • HTML5 • CSS3 • JavaScript
 
-- Developed an interactive Tic-Tac-Toe game with a responsive user interface.
+- Developed a responsive Tic-Tac-Toe web application.
 - Implemented game logic, winner detection, draw handling, and restart functionality.
-- Applied object-oriented programming principles to create clean and maintainable code.
+- Applied object-oriented programming principles to build clean, modular, and maintainable code.
 
 ---
 
@@ -86,26 +52,17 @@ Motivated Java Developer and Java Full Stack Developer with hands-on experience 
 
 ---
 
-## Currently Learning
-
-- Spring Security
-- Microservices
-- Docker
-- System Design
-
----
-
 ## Portfolio
 
-**Java Full Stack Developer Portfolio**  
+### Java Full Stack Developer Portfolio
 https://medaabhinav.github.io/java-fullstack-portfolio/
 
-**Java Developer Portfolio**  
+### Java Developer Portfolio
 https://medaabhinav.github.io/java-developer-portfolio/
 
 ---
 
-## Connect With Me
+## Connect
 
 **Email**  
 medaabhinav7@gmail.com
@@ -123,3 +80,4 @@ https://github.com/MedaAbhinav
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MedaAbhinav&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MedaAbhinav&layout=compact&theme=github_dark)
+```
